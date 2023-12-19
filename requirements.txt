@@ -10,3 +10,10 @@ sentence_transformers==2.2.2
 torch==2.1.0+cu118
 tqdm==4.66.1
 transformers==4.35.2
+langchain
+accelerate
+python-dotenv
+xformers
+openai
+faiss-cpu
+tiktoken
