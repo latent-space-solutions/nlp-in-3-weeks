@@ -1,3 +1,5 @@
+nltk
+pandas
 annoy==1.17.3
 datasets==2.15.0
 numpy==1.23.5
@@ -17,3 +19,4 @@ xformers
 openai
 faiss-cpu
 tiktoken
+datasets
